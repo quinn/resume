@@ -119,7 +119,7 @@ Data migration, application development
     <http://www.longislandindex.org/>.
 
 -   Required working with legacy data to build the database of research
-    data and creating content authoring tools for the front-end.
+    data and creating content authoring tools for the front- end.
 
 *Empirical Learning* 2012\
 Data migration, application development
@@ -148,8 +148,8 @@ Application development, Front-end Development
 *Fav&Co* 2011\
 Application development
 
--   Collaborated on User experience and developed the product from the
-    ground up with a small team of developers.
+-   Collaborated on User experience and developed <http://www.fav.co/>
+    from the ground up with a small team of developers.
 
 *IMG Fashion Week* 2010\
 Application development
@@ -161,8 +161,8 @@ Application development
 *Neue Galerie* 2010\
 Application development
 
--   Created new website and e-commerce platform for Neue Galerie in New
-    York in collaboration with Pentagram.
+-   Created new website and e-commerce platform at in collaboration with
+    Pentagram.
 
 *Walker Group CRM* 2008\
 Application development
@@ -176,10 +176,14 @@ CONTACT
 
 =
 
-= (641) 233-1123\
+=
+
+*Phone* (641) 233-1123\
 *Email* q.shanahan@gmail.com\
 *Company Website* <http://tastehoneyco.com/>\
 *Personal Website* <http://quinnshanahan.com/>\
 
-=-= Source code for document available at
+=-=
+
+Source code for document available at
 <https://github.com/quinn/resume/blob/master/resume.tex>
