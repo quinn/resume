@@ -30,7 +30,16 @@ Chef, Capistrano, Monit, Heroku, Vagrant, Ubuntu and Debian
 EXPERIENCE
 ==========
 
-*Lead Developer* 2010-12\
+*Lead Developer* 2013\
+StackSocial
+
+-   Managed a team of developers at a growing start-up.
+
+-   Led a functional and design relaunch of the web application and
+    storefront, as well as coordinating a launch of an iOS mobile
+    application.
+
+*Lead Developer* 2010-14\
 HoneyCo
 
 -   Built a consultancy from the ground up while leading a team of
