@@ -18,39 +18,40 @@ in the market.
 SKILLS
 ======
 
-*Languages:* Ruby, Node.js and Javascript, Objective-C, Python, PHP,
-HTML5 and CSS3, Bash
+<span>*Languages:*</span> Ruby, Node.js and Javascript, Objective-C,
+Python, PHP, HTML5 and CSS3, Bash
 
-*Frameworks:* Ruby on Rails, Sinatra, jQuery, Backbone, Ember, Meteor,
-Django, D3, Drupal, Twitter Bootstrap, Compass
+<span>*Frameworks:*</span> Ruby on Rails, Sinatra, jQuery, Backbone,
+Ember, Meteor, Django, D3, Drupal, Twitter Bootstrap, Compass, Angular
 
-*Infrastructure:* AWS (S3, CloudFront, CloudFormation, EC2), Puppet,
-Chef, Capistrano, Monit, Heroku, Vagrant, Ubuntu and Debian
+<span>*Infrastructure:*</span> AWS (S3, CloudFront, CloudFormation,
+EC2), Puppet, Chef, Capistrano, Monit, Heroku, Vagrant, Ubuntu and
+Debian
 
 EXPERIENCE
 ==========
 
-*Lead Developer* 2013\
+<span>*Lead Developer*</span> 2013\
 StackSocial
 
 -   Managed a team of developers at a growing start-up.
 
 -   Led a functional and design relaunch of the web application and
-    storefront, as well as coordinating a launch of an iOS mobile
-    application.
+    storefront, as well as coordinating a launch of an iOS
+    mobile application.
 
-*Lead Developer* 2010-14\
+<span>*Lead Developer*</span> 2010-14\
 HoneyCo
 
--   Built a consultancy from the ground up while leading a team of
-    developers.
+-   Built a consultancy from the ground up while leading a team
+    of developers.
 
 -   Worked on interdisciplinary projects requiring skills in usability,
     planning, product planning, and user experience.
 
 -   Trained beginner developers to be adept full-stack developers.
 
-*Senior Consultant* 2009-10\
+<span>*Senior Consultant*</span> 2009-10\
 Control Group
 
 -   Worked on a team of developers to tackle technical problems across
@@ -64,38 +65,38 @@ Control Group
 -   Created automated full test coverage using tools such as Cucumber
     and Capybara.
 
-*Consultant* 2008-09\
+<span>*Consultant*</span> 2008-09\
 Independent
 
 -   Worked on web-based projects including intranet software, startups
     and front-facing web applications.
 
-*Developer* 2008\
+<span>*Developer*</span> 2008\
 Scribestorm
 
 -   Built tools to help artists and musicians publish and distribute
     their content online with a small agile team of developers.
 
-*CTO* 2007-2008\
+<span>*CTO*</span> 2007-2008\
 ENN
 
 -   Led a team of developers to relaunch the ENN front-end as well as
     consolidate and normalize ENN’s archive of 10+ years of articles.
 
 -   Worked with ENN’s stakeholders to increase the product offerings to
-    include press releases as well as custom subject-matter specific
-    content.
+    include press releases as well as custom subject-matter
+    specific content.
 
-*Front-end Developer* 2005-2006\
+<span>*Front-end Developer*</span> 2005-2006\
 ArtSelect
 
 -   Worked on front-end projects for the ArtSelect e-commerce website.
 
-*Junior Developer* 2004-2005\
+<span>*Junior Developer*</span> 2004-2005\
 Harper Brush
 
--   Created tools for managing and documenting Harper Brush’s product
-    database.
+-   Created tools for managing and documenting Harper Brush’s
+    product database.
 
 -   Relaunched Harper Brush website.
 
@@ -103,25 +104,25 @@ SELECTED\
 PROJECTS
 =========
 
-*Fairway Market* 2013\
+<span>*Fairway Market*</span> 2013\
 Data migration, analysis
 
 -   Prepared Fairway for new e-commerce platform with technical guidance
     and performed migrations of legacy data to new systems.
 
-*charity: water* 2013\
+<span>*charity: water*</span> 2013\
 Facebook development
 
 -   Created Facebook application to allow users to “donate their
     birthdays” to charity: water.
 
-*Adaptly* 2012\
+<span>*Adaptly*</span> 2012\
 Application development
 
 -   Created new website at <http://www.adaptly.com/> as well as set up
     custom tracking using Google Analytics.
 
-*Long Island Index* 2012\
+<span>*Long Island Index*</span> 2012\
 Data migration, application development
 
 -   Led a team of developers to relaunch
@@ -130,7 +131,7 @@ Data migration, application development
 -   Required working with legacy data to build the database of research
     data and creating content authoring tools for the front- end.
 
-*Empirical Learning* 2012\
+<span>*Empirical Learning*</span> 2012\
 Data migration, application development
 
 -   Prototyped tools for interactive learning software including an
@@ -139,14 +140,14 @@ Data migration, application development
 
 -   Rapidly developed and iterated tools for presentations and grants.
 
-*Yipit* 2012\
+<span>*Yipit*</span> 2012\
 Application development
 
 -   Relaunched front-end of <http://www.yipit.com/>.
 
 -   Built dynamic tools for browsing and filtering deals.
 
-*Styledon* 2011\
+<span>*Styledon*</span> 2011\
 Application development, Front-end Development
 
 -   Rebuilt <http://www.styledon.com/> on Rails 3.2 from Rails 2.3.
@@ -154,26 +155,26 @@ Application development, Front-end Development
 -   Created new suite of content authoring tools including interactive
     uploading tools and bookmarklets.
 
-*Fav&Co* 2011\
+<span>*Fav&Co*</span> 2011\
 Application development
 
 -   Collaborated on User experience and developed <http://www.fav.co/>
     from the ground up with a small team of developers.
 
-*IMG Fashion Week* 2010\
+<span>*IMG Fashion Week*</span> 2010\
 Application development
 
 -   Created sign-up system for IMG Fashion Week that allowed users to
     register, pay for, request and print event credentials; integrated
     system with on-site barcode readers created by Fashion GPS.
 
-*Neue Galerie* 2010\
+<span>*Neue Galerie*</span> 2010\
 Application development
 
--   Created new website and e-commerce platform at in collaboration with
-    Pentagram.
+-   Created new website and e-commerce platform at in collaboration
+    with Pentagram.
 
-*Walker Group CRM* 2008\
+<span>*Walker Group CRM*</span> 2008\
 Application development
 
 -   Built CRM for Walker Group to deploy insurance adjusters throughout
@@ -187,10 +188,10 @@ CONTACT
 
 =
 
-*Phone* (641) 233-1123\
-*Email* q.shanahan@gmail.com\
-*Company Website* <http://tastehoneyco.com/>\
-*Personal Website* <http://quinnshanahan.com/>\
+<span>*Phone*</span> (641) 233-1123\
+<span>*Email*</span> q.shanahan@gmail.com\
+<span>*Company Website*</span> <http://tastehoneyco.com/>\
+<span>*Personal Website*</span> <http://quinnshanahan.com/>\
 
 =-=
 
