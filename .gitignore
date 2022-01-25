@@ -1,2 +1,4 @@
 *.log
 *.pdf
+resume.fls
+resume.fdb_latexmk
